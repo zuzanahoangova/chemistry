@@ -12,9 +12,9 @@
 # Allow selected Python files (root-level)
 ############################################
 !mccabe_thiele.py
-!os_automation.py
-!py_automation.py
+!clean_tensile_csv.py
 !rename_tensile.py
+!evaluate_tensile_batch.py
 
 ############################################
 # Allow required metadata
